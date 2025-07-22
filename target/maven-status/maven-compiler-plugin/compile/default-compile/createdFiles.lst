@@ -1,0 +1,8 @@
+com/example/util/AccuracyUtil.class
+com/example/service/EvaluationService.class
+com/example/SummaryEvaluatorServiceApplication.class
+com/example/controller/EvaluationController.class
+com/example/model/EvaluationResult$EvaluationResultBuilder.class
+com/example/model/EvaluationResult.class
+com/example/dto/EvaluationRequest.class
+com/example/repository/EvaluationResultRepository.class
